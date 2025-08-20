@@ -1,2 +1,2 @@
-# remindnow
-A practice project for a todo list
+# Remind NOW!
+A todo list practice project using a MERN tech stack.

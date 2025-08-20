@@ -1,0 +1,20 @@
+{
+  "name": "remindnowsrv",
+  "version": "0.1.0",
+  "description": "A todo list practice project",
+  "homepage": "https://github.com/WolferTamer/remindnow#readme",
+  "bugs": {
+    "url": "https://github.com/WolferTamer/remindnow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolferTamer/remindnow.git"
+  },
+  "license": "ISC",
+  "author": "Caleb Cassin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  }
+}
