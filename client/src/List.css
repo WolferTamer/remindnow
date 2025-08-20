@@ -1,0 +1,26 @@
+.list-lined {
+    background-color: #f0de7a;
+    padding: 3em;
+    border-radius: 2em;
+    min-width: 30em;
+    max-width: 50em;
+    height: 100vh;
+}
+
+.list-lined ul {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    height: 100%;
+    width: 100%;  
+    list-style-type: none;
+    font-size: larger;
+    margin: 0;
+    padding: 0;
+}
+
+.list-lined li {
+    width:100%;
+    border-bottom: 2px solid #78a55a ;
+}

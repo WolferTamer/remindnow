@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "Caleb Cassin",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "node ."
   }
